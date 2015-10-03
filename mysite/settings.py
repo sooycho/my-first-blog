@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'ROK'
+TIME_ZONE = 'Asia/Seoul'
 
 USE_I18N = True
 
